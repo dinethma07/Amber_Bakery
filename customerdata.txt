@@ -1,0 +1,13 @@
+         dinesh            Chocolate ICE       Rs 60.00       x2        Rs 120.00
+         dinesh               Vanila ICE       Rs 50.00       x2        Rs 100.00
+                                                                        ___________Rs 220.00
+
+              3              Stobery ICE       Rs 70.00       x1        Rs  70.00
+              3            Chocolate ICE       Rs 60.00       x2        Rs 120.00
+              3               Vanila ICE       Rs 50.00       x5        Rs 250.00
+         dheaha               Vanila ICE       Rs 50.00       x2        Rs 100.00
+                                                                        ___________Rs 100.00
+
+            hhj               Vanila ICE       Rs 50.00       x1        Rs  50.00
+                                                                        ___________Rs  50.00
+
